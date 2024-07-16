@@ -6,3 +6,15 @@
 	path = Assignment-Starter-Tailwind
 	url = https://github.com/CS61D/Assignment-Starter-Tailwind
 	branch = main
+[submodule "Assignment-Starter-Typescript"]
+	path = Assignment-Starter-Typescript
+	url = https://github.com/CS61D/Assignment-Starter-Typescript
+	branch = main
+[submodule "Assignment-Starter-Javascript"]
+	path = Assignment-Starter-Javascript
+	url = https://github.com/CS61D/Assignment-Starter-Javascript
+	branch = main
+[submodule "Assignment-Starter-APIs-and-Webhooks"]
+	path = Assignment-Starter-APIs-and-Webhooks
+	url = https://github.com/CS61D/Assignment-Starter-APIs-and-Webhooks
+	branch = main
