@@ -1,0 +1,8 @@
+[submodule "Assignment-Starter-Databases"]
+	path = Assignment-Starter-Databases
+	url = https://github.com/CS61D/Assignment-Starter-Databases
+	branch = main
+[submodule "Assignment-Starter-Tailwind"]
+	path = Assignment-Starter-Tailwind
+	url = https://github.com/CS61D/Assignment-Starter-Tailwind
+	branch = main
