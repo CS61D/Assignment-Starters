@@ -18,3 +18,7 @@
 	path = Assignment-Starter-APIs-and-Webhooks
 	url = https://github.com/CS61D/Assignment-Starter-APIs-and-Webhooks
 	branch = main
+[submodule "Assignment-Starter-React"]
+	path = Assignment-Starter-React
+	url = https://github.com/CS61D/Assignment-Starter-React
+	branch = main
